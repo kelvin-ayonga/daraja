@@ -1,6 +1,6 @@
 {
   "name": "@kelvinlogic/daraja",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Wrapper for safaricom's M-pesa api",
   "main": "index.js",
   "scripts": {
