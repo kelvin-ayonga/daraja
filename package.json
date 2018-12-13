@@ -1,0 +1,17 @@
+{
+  "name": "@kelvinlogic/daraja",
+  "version": "1.0.0",
+  "description": "Wrapper for safaricom's M-pesa api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "daraja",
+    "api",
+    "M-pesa"
+  ],
+  "author": "Isaiah Kelvin Ayonga <kelvin.ayonga@sunergix.com",
+  "license": "ISC",
+  "repository": "kelvin-ayonga/daraja"
+}
